@@ -1,8 +1,8 @@
 import React from 'react'
 import { Form } from 'react-bootstrap'
 
-// import './Components/Filter/FilterByTitle.css'
 import './FilterByTitle.css'
+
 const FilterByTitle = ({ title, setTitle }) => {
 
 
